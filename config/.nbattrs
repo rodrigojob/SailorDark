@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="">
+        <attr name="Keymaps\currentKeymap" stringvalue="NetBeans"/>
+        <attr name="Modules\org-netbeans-libs-oracle-jsparser.xml\ergonomicsEnabled" longvalue="1580873024522"/>
+        <attr name="Modules\org-netbeans-libs-oracle-jsparser.xml\ergonomicsUnused" intvalue="6"/>
+        <attr name="Spellcheckers\GSP\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\HTML\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\JSP\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\PHP\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\Phpdoc\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\Plain\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\Properties\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\XHTML\Hidden" boolvalue="false"/>
+    </fileobject>
+    <fileobject name="Editors">
+        <attr name="currentFontColorProfile" stringvalue="SailorDark"/>
+    </fileobject>
+</attributes>

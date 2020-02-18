@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor bgColor="gray" name="mark-occurrences"/>
+    <fontcolor foreColor="ff007c00" name="markup-attribute"/>
+    <fontcolor name="private"/>
+    <fontcolor foreColor="yellow" name="string"/>
+    <fontcolor name="deprecated" strikeThrough="darkGray"/>
+    <fontcolor bgColor="red" foreColor="white" name="error"/>
+    <fontcolor name="interface"/>
+    <fontcolor foreColor="cyan" name="entity-reference"/>
+    <fontcolor foreColor="white" name="operator"/>
+    <fontcolor foreColor="cyan" name="number"/>
+    <fontcolor bgColor="black" foreColor="green" name="default"/>
+    <fontcolor name="protected"/>
+    <fontcolor name="public"/>
+    <fontcolor foreColor="ffa06001" name="method-parameter"/>
+    <fontcolor name="warning" waveUnderlined="yellow"/>
+    <fontcolor foreColor="magenta" name="keyword"/>
+    <fontcolor name="class"/>
+    <fontcolor name="local-variable"/>
+    <fontcolor foreColor="green" name="identifier"/>
+    <fontcolor name="static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor name="method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="orange" name="markup-element"/>
+    <fontcolor default="string" name="markup-attribute-value"/>
+    <fontcolor name="abstract"/>
+    <fontcolor foreColor="white" name="separator"/>
+    <fontcolor name="enum"/>
+    <fontcolor name="url" underline="blue"/>
+    <fontcolor foreColor="ff098618" name="field">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="magenta" name="char"/>
+    <fontcolor foreColor="lightGray" name="comment"/>
+    <fontcolor foreColor="gray" name="unused"/>
+    <fontcolor foreColor="magenta" name="whitespace"/>
+</fontscolors>
